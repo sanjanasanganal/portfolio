@@ -1,2 +1,2 @@
-# sunilkurthakoti.github.io
+# https://sanjanasanganal.github.io/portfolio/
 Portfolio-Website
